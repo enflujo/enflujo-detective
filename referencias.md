@@ -16,4 +16,5 @@
 * [https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=es]() -> Tipos de Schema aceptados por Google. Pistas: carrusel, dataset, event, metadatos de imagen, logo..
 * Tipo **carrusel**: [https://developers.google.com/search/docs/appearance/structured-data/carousel?hl=es]()
 * Tipo **dataset**: https://developers.google.com/search/docs/appearance/structured-data/dataset?hl=es
+* Tipo **CollectionPage**: https://schema.org/CollectionPage
 * Ejemplo de etiquetas de Schema en formato JSON-LD y una explicación de la relación entre los elementos: [https://www.searchenginejournal.com/technical-seo/schema/]()
